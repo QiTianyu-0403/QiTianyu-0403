@@ -1,8 +1,8 @@
 ## Hello GitHub Fans 👋
 
 ![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red.svg "WeChat")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+![webkettle交流群](https://img.shields.io/badge/QQ-1124351512-red.svg "QQ")
+[![Mail Badge](https://img.shields.io/badge/-qitianyuqty@163.com-c14438?style=flat&logo=mail&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:joeysiwei@gmail.com)
 ---
 
 <!--
