@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 
-![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red)
+![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red?style=flat&logo=WeChat)
 ![webkettle交流群](https://img.shields.io/badge/QQ-1124351512-red.svg "QQ")
 [![Mail Badge](https://img.shields.io/badge/-qitianyuqty@163.com-c14438?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:qitianyuqty@163.com)
 ---
