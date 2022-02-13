@@ -2,7 +2,7 @@
 
 ![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red.svg "WeChat")
 ![webkettle交流群](https://img.shields.io/badge/QQ-1124351512-red.svg "QQ")
-[![Mail Badge](https://img.shields.io/badge/-qitianyuqty@163.com-c14438?style=flat&logo=163&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:joeysiwei@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-qitianyuqty@163.com-c14438?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:joeysiwei@gmail.com)
 ---
 
 <!--
