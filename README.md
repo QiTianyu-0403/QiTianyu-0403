@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello GitHub Fans 👋
+
+[![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red.svg "WeChat")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "WeChat")
+[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
+[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+---
 
 <!--
 **QiTianyu-0403/QiTianyu-0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
