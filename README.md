@@ -4,9 +4,9 @@
 ![My QQ](https://img.shields.io/badge/QQ-1124351512-red?style=flat&logo=TencentQQ&logoColor=FFD700)
 [![Mail Badge](https://img.shields.io/badge/Mail-qitianyuqty@163.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:qitianyuqty@163.com)
 ---
+<img align="right" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/1.jpeg" width="280"/>
 
 ### I'm Tianyu Qi
-<img align="right" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/1.jpeg" width="260"/>
 
 - 💁 An Automation Postgraduate Student. & Open Source enthusiast.
 - 🎓 Have got the bachelor degree in the China University of Geosciences, Wuhan.
@@ -29,7 +29,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&color=483D8B)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark)](https://github.com/QiTianyu-0403/github-readme-stats) -->
-<img align="left" alt="Tianyu Qi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark" width="400"/>    &nbsp;
+<img align="left" alt="Tianyu Qi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark" width="450"/>    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiTianyu-0403&layout=compact&theme=github_dark)](https://github.com/QiTianyu-0403/github-readme-stats)
 
 ---
