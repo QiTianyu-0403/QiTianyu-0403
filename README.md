@@ -9,7 +9,7 @@
 <img align="right" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/1.jpeg" width="250"/>
 
 - 💁 An Automation Postgraduate Student. & Open Source enthusiast.
-- 🎓 Have got the bachelor degree in the China University of Geosciences，Wuhan.
+- 🎓 Have got the bachelor degree in the China University of Geosciences, Wuhan.
 - 🏠 Currently studying in Beijing Institute of Technology, China.
 - 💻 Interned in the IoT technology department of Taiji Computer Corporation Limited.
 - 📝 Ask me about Python, C++ or my projects on on [qitianyuqty@163.com](mailto:qitianyuqty@163.com).
