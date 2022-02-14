@@ -4,7 +4,7 @@
 ![My QQ](https://img.shields.io/badge/QQ-1124351512-red?style=flat&logo=TencentQQ&logoColor=lightgrey)
 [![Mail Badge](https://img.shields.io/badge/Mail-qitianyuqty@163.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:qitianyuqty@163.com)
 ---
-<img align="right" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/1.jpeg" width="400"/>
+<img align="right" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/1.jpeg" width="250"/>
 
 ### I'm Tianyu Qi
 
