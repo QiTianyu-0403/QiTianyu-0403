@@ -14,7 +14,9 @@
 - 💻 Interned in the IoT technology department of Taiji Computer Corporation Limited.
 - 📝 Ask me about Python, C++ or my projects on on [qitianyuqty@163.com](mailto:qitianyuqty@163.com).
 
+---
 
+### Tech Stack 🛠
 
 <!--
 **QiTianyu-0403/QiTianyu-0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
