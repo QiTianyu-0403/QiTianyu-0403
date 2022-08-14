@@ -1,4 +1,4 @@
-## Hello GitHub Fans 👋
+## Hello GitHub Fans 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=QiTianyu-0403.QiTianyu-0403&left_color=green&right_color=red)
 
 ![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red?style=flat&logo=WeChat)
 ![My QQ](https://img.shields.io/badge/QQ-1124351512-red?style=flat&logo=TencentQQ&logoColor=FFD700)
