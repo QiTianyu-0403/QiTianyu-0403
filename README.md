@@ -37,7 +37,7 @@
 ### Github Repos
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark)](https://github.com/QiTianyu-0403/github-readme-stats) -->
-<img align="left" alt="Tianyu Qi's Github Stats" src="github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark" width="450"/>    &nbsp;
+<img align="left" alt="Tianyu Qi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark" width="450"/>    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiTianyu-0403&layout=compact&theme=github_dark)](https://github.com/QiTianyu-0403/github-readme-stats)
 
 ---
