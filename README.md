@@ -45,6 +45,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=QiTianyu-0403&theme=oldie&title=MultiLanguage,Stars,Commits,Repositories,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1612332601352695808.svg?t=1)](https://www.murphysec.com/accept?code=e698e16dece72f7bd6c666e0d38c31b4&type=1&from=2&t=2)
+
 ---
 ### About me
 
