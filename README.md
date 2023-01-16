@@ -43,7 +43,7 @@
 ---
 ### Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=QiTianyu-0403&theme=oldie&title=MultiLanguage,Stars,Commits,Repositories,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=QiTianyu-0403&theme=nord&title=MultiLanguage,Stars,Commits,Repositories,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ### About me
