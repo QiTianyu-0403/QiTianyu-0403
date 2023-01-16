@@ -58,6 +58,8 @@
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more! ✨😊***
+
+<img align="center" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/doge.gif" width="140"/>
 <!--
 **QiTianyu-0403/QiTianyu-0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
