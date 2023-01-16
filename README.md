@@ -33,12 +33,12 @@
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt&color=483D8B)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&color=483D8B)
 
---- 
-### Github Repos
+<!-- ---  -->
+<!-- ### Github Repos -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark)](https://github.com/QiTianyu-0403/github-readme-stats) -->
-<img align="left" alt="Tianyu Qi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark" width="450"/>    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiTianyu-0403&layout=compact&theme=github_dark)](https://github.com/QiTianyu-0403/github-readme-stats)
+<!-- <img align="left" alt="Tianyu Qi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=QiTianyu-0403&hide=contribs,prs&show_icons=true&include_all_commits=True&theme=github_dark" width="450"/>    &nbsp; -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiTianyu-0403&layout=compact&theme=github_dark)](https://github.com/QiTianyu-0403/github-readme-stats) -->
 
 ---
 ### Github Trophies
@@ -48,7 +48,7 @@
 ---
 ### About me
 
-[![Weibo](https://img.shields.io/badge/-Weibo-333333?style=flat&logo=SinaWeibo&logoColor=E6162D&color=FF8C00)](https://weibo.com/u/5632513104)
+<!-- [![Weibo](https://img.shields.io/badge/-Weibo-333333?style=flat&logo=SinaWeibo&logoColor=E6162D&color=FF8C00)](https://weibo.com/u/5632513104) -->
 [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/xin-sen-miao-yan-yao-49-60)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-333333?style=flat&logo=Bilibili&logoColor=FFFFFF&color=FF69B4)](https://space.bilibili.com/515835334?spm_id_from=333.1007.0.0)
 [![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/QiTianyu-0403)
