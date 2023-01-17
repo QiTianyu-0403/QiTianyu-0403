@@ -51,7 +51,7 @@
 <!-- [![Weibo](https://img.shields.io/badge/-Weibo-333333?style=flat&logo=SinaWeibo&logoColor=E6162D&color=FF8C00)](https://weibo.com/u/5632513104) -->
 [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/xin-sen-miao-yan-yao-49-60)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-333333?style=flat&logo=Bilibili&logoColor=FFFFFF&color=FF69B4)](https://space.bilibili.com/515835334?spm_id_from=333.1007.0.0)
-[![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/QiTianyu-0403)
+[![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://qitianyu-0403.github.io)
 
 <!-- <img align="left" alt="Tianyu Qi's Github Stats" src="https://metrics.lecoq.io/QiTianyu-0403?template=terminal&repositories=100&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FShanghai" width="400"/>    &nbsp;
 <img alt="Zhihu" src="https://stats.justsong.cn/api/zhihu?username=xin-sen-miao-yan-yao-49-60&cn=true&theme=dark" width="410" style="box-shadow:none !important"/> -->
