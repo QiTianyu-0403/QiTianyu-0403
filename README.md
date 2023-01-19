@@ -1,3 +1,5 @@
+<p align="center"><a href="https://qitianyu-0403.github.io"><img width="60%" alt="Hello, I'm Tianyu Qi." src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/name.png" /></a></p>
+
 ## ![visitors](https://visitor-badge.glitch.me/badge?page_id=QiTianyu-0403.QiTianyu-0403&left_color=green&right_color=red) Hello GitHub Fans 👋 
 
 ![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red?style=flat&logo=WeChat)
@@ -59,7 +61,9 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more! ✨😊***
 
-<img align="center" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/doge.gif" width="140"/>
+<!-- <img align="center" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/doge.gif" width="140"/> -->
+
+<p align="center"><img width="15%" alt="doge" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/doge.gif" /></a></p>
 <!--
 **QiTianyu-0403/QiTianyu-0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
