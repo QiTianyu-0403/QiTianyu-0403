@@ -1,4 +1,4 @@
-<p align="center"><a href="https://qitianyu-0403.github.io"><img width="60%" alt="Hello, I'm Tianyu Qi." src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/name.png" /></a></p>
+<p align="center"><a href="https://qitianyu-0403.github.io"><img width="70%" alt="Hello, I'm Tianyu Qi." src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/name.png" /></a></p>
 
 ## ![visitors](https://visitor-badge.glitch.me/badge?page_id=QiTianyu-0403.QiTianyu-0403&left_color=green&right_color=red) Hello GitHub Fans 👋 
 
