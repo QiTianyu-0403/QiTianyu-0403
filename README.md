@@ -1,6 +1,6 @@
 ## ![visitors](https://visitor-badge.glitch.me/badge?page_id=QiTianyu-0403.QiTianyu-0403&left_color=green&right_color=red) Hello GitHub Fans 👋 
 
-![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red?style=flat&logo=WeChat)
+![My Wechat](https://img.shields.io/badge/WeChat-ty__miracle-red?style=flat&logo=WeChat)
 ![My QQ](https://img.shields.io/badge/QQ-1124351512-red?style=flat&logo=TencentQQ&logoColor=FFD700)
 [![Mail Badge](https://img.shields.io/badge/Mail-qitianyuqty@163.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:qitianyuqty@163.com)
 
