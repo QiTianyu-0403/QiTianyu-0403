@@ -65,7 +65,12 @@
 
 <!-- <img align="center" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/doge.gif" width="140"/> -->
 
-<p align="center"><img width="15%" alt="doge" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/doge.gif" /></a></p>
+
+<p align="center"><img width="75%" alt="tymiracle" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/tymiracle_fig.png" /></a></p>
+
+<!--
+<p align="center"><img width="8%" alt="doge" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/doge.gif" /></a></p>
+-->
 
 <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=600&size=30&duration=3000&pause=1000&color=6264F7&center=true&vCenter=true&width=435&lines=Thank+you+for+your+visit+!" alt="Typing SVG" /></a></p>
 
