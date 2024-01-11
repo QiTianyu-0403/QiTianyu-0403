@@ -1,7 +1,6 @@
 ## Hello GitHub Fans 👋 
 
 ![My Wechat](https://img.shields.io/badge/WeChat-ty__miracle-red?style=flat&logo=WeChat)
-![My QQ](https://img.shields.io/badge/QQ-1124351512-red?style=flat&logo=TencentQQ&logoColor=FFD700)
 [![Mail Badge](https://img.shields.io/badge/Mail-qitianyuqty@163.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:qitianyuqty@163.com)
 
 <p align="center"><a href="https://qitianyu-0403.github.io"><img width="70%" alt="Hello, I'm Tianyu Qi." src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/name.png" /></a></p>
