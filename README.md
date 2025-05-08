@@ -14,7 +14,7 @@
 - 💁 An Cyberspace Security Ph.D Student. & Open Source enthusiast.
 - 🎓 Have got the master degree in Beijing Institute of Technology.
 - 🎓 Have got the bachelor degree in China University of Geosciences, Wuhan.
-- 🏠 Currently studying in Sun Yat-Sen University, China.
+- 🏠 Currently studying in Sun Yat-sen University, China.
 - 💻 Interned in the IoT technology department of Taiji && Kuaishou Technology.
 - 📝 Ask me about Python, C++ or my projects on [qitianyuqty@163.com](mailto:qitianyuqty@163.com).
 ---
