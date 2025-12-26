@@ -47,7 +47,7 @@
 ---
 ### Github Trophies
 
-[![trophy](https://github-profile-trophy-qisd.vercel.app/?username=QiTianyu-0403&theme=nord&title=MultiLanguage,Stars,Commits,Repositories,Followers,Issues)](https://github.com/QiTianyu-0403/github-profile-trophy)
+[![trophy](https://github-profile-trophy-qisd-qitianyu0403s-projects.vercel.app/?username=QiTianyu-0403&theme=nord&title=MultiLanguage,Stars,Commits,Repositories,Followers,Issues)](https://github.com/QiTianyu-0403/github-profile-trophy)
 
 ---
 ### About me
